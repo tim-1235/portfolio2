@@ -1,2 +1,2 @@
 # portfolio2
-this is photos for my website
+this is for my website
